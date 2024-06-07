@@ -6,8 +6,8 @@
 #include <FS.h>
 #include <SPIFFS.h>
 #include <WiFi.h>
-#define emailSenderAccount    "ghajaajay@gmail.com"
-#define emailSenderPassword   "pinginsiaran666"
+#define emailSenderAccount    "Your Email"
+#define emailSenderPassword   "Your Password Email"
 #define smtpServer            "smtp.gmail.com"
 #define smtpServerPort        465
 #define emailSubject          "ESP32-CAM Photo Captured"
